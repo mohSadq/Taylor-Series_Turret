@@ -36,7 +36,6 @@ Since the series only returns values for the right side of the circle, I added l
 ## 🛠️ Implementation Details
 * **Language:** Python 3
 * **Library:** Pygame (for rendering and input)
-* **Optimization:** Used iterative multiplication for powers to improve CPU efficiency within the math loop.
 
 ---
 ## 🤝 Feedback & Improvements
