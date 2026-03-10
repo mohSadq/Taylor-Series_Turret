@@ -39,8 +39,12 @@ Since the series only returns values for the right side of the circle, I added l
 * **Optimization:** Used iterative multiplication for powers to improve CPU efficiency within the math loop.
 
 ---
+## 🤝 Feedback & Improvements
+This project was a deep dive into the math behind game engines. I am aware that this implementation is a numerical approximation and may not be 100% "production-ready" compared to optimized C libraries.
 
-## 🚀 Future Improvements
-- [ ] Add projectile physics using Taylor series for Sine and Cosine.
-- [ ] Implement smooth rotation (LERP) so the turret has "weight."
-- [ ] Add multiple turrets to test the performance of the custom math library.
+If you have suggestions for:
+* More efficient power series iterations
+* Better ways to handle the quadrant logic
+* General Python clean-code tips
+
+**I would be very grateful for your feedback!** Please feel free to open an issue or reach out. I am always looking to learn and improve.
